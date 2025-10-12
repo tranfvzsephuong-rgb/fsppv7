@@ -24,10 +24,7 @@ class Http {
     // Fallback to '/api' for SSR/tests. We prefer a configured VITE_API_BASE_URL
     // so the client talks to the API host defined in env, not inferred from
     // the client's origin.
-    let envBase = 'https://fsppv7.ssivn.fun/api'
-    if (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_API_BASE_URL) {
-      envBase = String(import.meta.env.VITE_API_BASE_URL).replace(/\/$/, '')
-    }
+    const envBase = 'https://fsppv7.ssivn.fun/api'
     const baseURL = envBase || '/api'
     console.log('API base set to', baseURL)
     this.instance = axios.create({

@@ -15,7 +15,7 @@ declare global {
 // Prefer VITE_SOCKET_BASE_URL when present. Use a safe fallback to the current
 // origin + '/ws' when running in the browser. Keep SSR/tests safe by avoiding
 // any window access when it's not available.
-let socketEnv = 'wss://sppv7.ssivn.fun/ws'
+let socketEnv = 'wss://fsppv7.ssivn.fun/ws'
 if (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.VITE_SOCKET_BASE_URL) {
   socketEnv = String(import.meta.env.VITE_SOCKET_BASE_URL).trim()
 }

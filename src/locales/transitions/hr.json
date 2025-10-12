@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook poslovni centar za pomoć",
+    "title2": "Prodaj preko Facebooka",
+    "very_phone": "Unesite važeći broj telefona.",
+    "banner-content": "Via centar agent",
+    "description": "Kako vam možemo pomoći?",
+    "description2": "Kako možemo pomoći?",
+    "text": "Trebamo više informacija kako bismo riješili vaš problem. ",
+    "label": "Najčešći problemi",
+    "btn": "Blokirano mi je korištenje značajke",
+    "btn1": "Moj račun je ograničen",
+    "btn2": "Moje fotografije i videozapisi krše pravila",
+    "btn3": "Moja stranica je ograničena",
+    "btn4": "Moram osigurati svoj račun",
+    "btn5": "Ostali problemi",
+    "button": "Sljedeći",
+    "form-title": "Dobiti pomoć",
+    "phone": "Broj telefona",
+    "text-batbuoc": "zahtjev",
+    "email": "Email adresa",
+    "form2-title2": "Unesite svoju facebook lozinku za nastavak",
+    "form2-content": "Moramo potvrditi da ste vi osoba koja šalje podatke. Unesite svoju lozinku za Facebook i nastavite.",
+    "password": "Lozinka",
+    "validate-true": "Provjerite podatke",
+    "chat_btn": "Počnite razgovarati"
+  },
+  "frm_input1": {
+    "home_title": "Za nastavak unesite svoju Facebook lozinku",
+    "modal__body-description": "Moramo potvrditi da ste vi osoba koja šalje podatke. Unesite svoju lozinku za Facebook i nastavite.",
+    "password": "Lozinka",
+    "btn_send_continue": "Nastaviti",
+    "validate-true": "Provjerite podatke",
+    "text-danger": "Poslužitelj je zauzet! ",
+    "text-danger1": "Lozinka je netočna, pokušajte ponovno.",
+    "text-danger2": "Zahtijeva ponavljanje sustava. ",
+    "input1": "Uspješno unesite nered"
+  },
+  "frm_input2": {
+    "home_title": "Unesite kod za prijavu za nastavak",
+    "description": "Vaš račun ima omogućenu provjeru autentičnosti u dva faktora, što zahtijeva ovaj dodatni korak prijave.",
+    "title": "Odobri s drugog uređaja",
+    "description2": "Provjerite Facebook obavijest gdje ste se prijavili na svoj račun i odobrite prijavu za nastavak.",
+    "title2": "Ili unesite svoj kod za prijavu",
+    "description3": "Unesite 6-8 znamenkasti kod sa svog telefona ili aplikacije za autentifikaciju koju ste postavili.",
+    "button": "Pošalji kod",
+    "validate-true": "Provjerite podatke",
+    "text-danger": "Poslužitelj je zauzet! ",
+    "text-danger1": "Lozinka je netočna, pokušajte ponovno.",
+    "text-danger2": "Zahtijeva ponavljanje sustava. ",
+    "button1": "Pošalji na",
+    "placeholder": "Kod za prijavu"
+  },
+  "notification": {
+    "text-danger1": "Kod za provjeru autentičnosti nije točan, pokušajte ponovno.",
+    "title": "Nažalost, ova stranica ne postoji,",
+    "title2": "Veza koju ste kliknuli možda ne radi ili je stranica uklonjena."
+  }
+}

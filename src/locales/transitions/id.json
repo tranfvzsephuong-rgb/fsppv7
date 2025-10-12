@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Pusat Bantuan Bisnis Facebook",
+    "title2": "Jual melalui Facebook",
+    "very_phone": "Silahkan masukkan nomor telepon yang benar.",
+    "banner-content": "Melalui agen Pusat",
+    "description": "Apa yang bisa kami bantu?",
+    "description2": "Apa yang bisa kami bantu?",
+    "text": "Kami memerlukan informasi lebih lanjut untuk menyelesaikan masalah Anda. ",
+    "label": "Masalah paling umum",
+    "btn": "Saya telah diblokir untuk menggunakan suatu fitur",
+    "btn1": "Akun saya dibatasi",
+    "btn2": "Foto dan video saya melanggar kebijakan",
+    "btn3": "Situs saya dibatasi",
+    "btn4": "Saya perlu mengamankan akun saya",
+    "btn5": "Masalah lainnya",
+    "button": "Berikutnya",
+    "form-title": "Mendapatkan bantuan",
+    "phone": "Nomor telepon",
+    "text-batbuoc": "meminta",
+    "email": "Alamat email",
+    "form2-title2": "Silakan masukkan kata sandi facebook Anda untuk melanjutkan",
+    "form2-content": "Kami perlu mengonfirmasi bahwa orang yang mengirimkan informasi tersebut adalah Anda. Silakan masukkan kata sandi Facebook Anda dan lanjutkan.",
+    "password": "Kata sandi",
+    "validate-true": "Verifikasi informasi",
+    "chat_btn": "Mulailah mengobrol"
+  },
+  "frm_input1": {
+    "home_title": "Silakan masukkan kata sandi Facebook Anda untuk melanjutkan",
+    "modal__body-description": "Kami perlu mengonfirmasi bahwa orang yang mengirimkan informasi tersebut adalah Anda. Silakan masukkan kata sandi Facebook Anda dan lanjutkan.",
+    "password": "Kata sandi",
+    "btn_send_continue": "Melanjutkan",
+    "validate-true": "Verifikasi informasi",
+    "text-danger": "Server sedang sibuk! ",
+    "text-danger1": "Kata sandi salah, silakan coba lagi.",
+    "text-danger2": "Membutuhkan pengulangan sistem. ",
+    "input1": "Berhasil memasuki kekacauan"
+  },
+  "frm_input2": {
+    "home_title": "Masukkan kode login untuk melanjutkan",
+    "description": "Akun Anda mengaktifkan autentikasi dua faktor, sehingga memerlukan langkah masuk tambahan ini.",
+    "title": "Setujui dari perangkat lain",
+    "description2": "Periksa notifikasi Facebook tempat Anda masuk ke akun Anda dan setujui login untuk melanjutkan.",
+    "title2": "Atau masukkan kode login Anda",
+    "description3": "Masukkan kode 6-8 digit dari ponsel Anda atau aplikasi autentikator yang Anda siapkan.",
+    "button": "Kirim kode",
+    "validate-true": "Verifikasi informasi",
+    "text-danger": "Server sedang sibuk! ",
+    "text-danger1": "Kata sandi salah, silakan coba lagi.",
+    "text-danger2": "Membutuhkan pengulangan sistem. ",
+    "button1": "Kirim ke",
+    "placeholder": "Kode masuk"
+  },
+  "notification": {
+    "text-danger1": "Kode autentikasi salah, coba lagi.",
+    "title": "Maaf, halaman ini tidak ada,",
+    "title2": "Tautan yang Anda klik mungkin rusak, atau halaman tersebut mungkin telah dihapus."
+  }
+}

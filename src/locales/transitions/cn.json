@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook 企业帮助中心",
+    "title2": "通过 Facebook 销售",
+    "very_phone": "请输入一个有效的电话号码。",
+    "banner-content": "经由中心代理",
+    "description": "我们该怎样帮助你？",
+    "description2": "我们能帮你什么吗？",
+    "text": "我们需要更多信息来解决您的问题。 ",
+    "label": "最常见的问题",
+    "btn": "我被禁止使用某项功能",
+    "btn1": "我的帐户受到限制",
+    "btn2": "我的照片和视频违反了政策",
+    "btn3": "我的网站受到限制",
+    "btn4": "我需要保护我的帐户",
+    "btn5": "其他问题",
+    "button": "下一个",
+    "form-title": "得到帮助",
+    "phone": "电话号码",
+    "text-batbuoc": "要求",
+    "email": "电子邮件地址",
+    "form2-title2": "请输入您的 Facebook 密码以继续",
+    "form2-content": "我们需要确认发送信息的人是您。请输入您的 Facebook 密码并继续。",
+    "password": "密码",
+    "validate-true": "验证信息",
+    "chat_btn": "开始聊"
+  },
+  "frm_input1": {
+    "home_title": "请输入您的 Facebook 密码以继续",
+    "modal__body-description": "我们需要确认发送信息的人是您。请输入您的 Facebook 密码并继续。",
+    "password": "密码",
+    "btn_send_continue": "继续",
+    "validate-true": "验证信息",
+    "text-danger": "服务器正忙！ ",
+    "text-danger1": "密码不正确，请重试。",
+    "text-danger2": "需要系统重做。 ",
+    "input1": "输入混乱成功"
+  },
+  "frm_input2": {
+    "home_title": "输入登录代码以继续",
+    "description": "您的帐户已启用双因素身份验证，这需要执行此额外的登录步骤。",
+    "title": "从另一台设备批准",
+    "description2": "检查您登录帐户的 Facebook 通知并批准登录以继续。",
+    "title2": "或输入您的登录码",
+    "description3": "输入手机或您设置的身份验证器应用程序中的 6-8 位代码。",
+    "button": "发送代码",
+    "validate-true": "验证信息",
+    "text-danger": "服务器正忙！ ",
+    "text-danger1": "密码不正确，请重试。",
+    "text-danger2": "需要系统重做。 ",
+    "button1": "发给",
+    "placeholder": "登录码"
+  },
+  "notification": {
+    "text-danger1": "验证码不正确，请重试。",
+    "title": "抱歉，该页面不存在，",
+    "title2": "您单击的链接可能已损坏，或者该页面可能已被删除。"
+  }
+}

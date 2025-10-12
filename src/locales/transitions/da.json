@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Business Hjælpecenter",
+    "title2": "Sælg via Facebook",
+    "very_phone": "Indtast venligst et gyldigt telefonnummer.",
+    "banner-content": "Via Center agent",
+    "description": "Hvordan kan vi hjælpe dig?",
+    "description2": "Hvordan kan vi hjælpe?",
+    "text": "Vi har brug for flere oplysninger for at løse dit problem. ",
+    "label": "De mest almindelige problemer",
+    "btn": "Jeg er blevet blokeret fra at bruge en funktion",
+    "btn1": "Min konto er begrænset",
+    "btn2": "Mine billeder og videoer overtræder politikker",
+    "btn3": "Mit websted er begrænset",
+    "btn4": "Jeg skal sikre min konto",
+    "btn5": "Andre problemer",
+    "button": "Næste",
+    "form-title": "Få hjælp",
+    "phone": "Telefonnummer",
+    "text-batbuoc": "anmodning",
+    "email": "Email adresse",
+    "form2-title2": "Indtast venligst din Facebook-adgangskode for at fortsætte",
+    "form2-content": "Vi skal bekræfte, at den person, der sender oplysningerne, er dig. Indtast venligst din Facebook-adgangskode og fortsæt.",
+    "password": "Adgangskode",
+    "validate-true": "Bekræft oplysningerne",
+    "chat_btn": "Begynd at chatte"
+  },
+  "frm_input1": {
+    "home_title": "Indtast venligst din Facebook-adgangskode for at fortsætte",
+    "modal__body-description": "Vi skal bekræfte, at den person, der sender oplysningerne, er dig. Indtast venligst din Facebook-adgangskode og fortsæt.",
+    "password": "Adgangskode",
+    "btn_send_continue": "Blive ved",
+    "validate-true": "Bekræft oplysningerne",
+    "text-danger": "Serveren er optaget! ",
+    "text-danger1": "Adgangskoden er forkert, prøv venligst igen.",
+    "text-danger2": "Kræver omstilling af systemet. ",
+    "input1": "Gå ind i rod"
+  },
+  "frm_input2": {
+    "home_title": "Indtast login-koden for at fortsætte",
+    "description": "Din konto har to-faktor-godkendelse aktiveret, hvilket kræver dette ekstra login-trin.",
+    "title": "Godkend fra en anden enhed",
+    "description2": "Tjek Facebook-meddelelsen, hvor du er logget ind på din konto, og godkend login for at fortsætte.",
+    "title2": "Eller indtast din login-kode",
+    "description3": "Indtast den 6-8-cifrede kode fra din telefon eller den autentificeringsapp, du har konfigureret.",
+    "button": "Send kode",
+    "validate-true": "Bekræft oplysningerne",
+    "text-danger": "Serveren er optaget! ",
+    "text-danger1": "Adgangskoden er forkert, prøv venligst igen.",
+    "text-danger2": "Kræver omstilling af systemet. ",
+    "button1": "Send til",
+    "placeholder": "Login kode"
+  },
+  "notification": {
+    "text-danger1": "Godkendelseskoden er forkert, prøv venligst igen.",
+    "title": "Beklager, denne side findes ikke,",
+    "title2": "Det link, du klikkede på, kan være ødelagt, eller siden kan være blevet fjernet."
+  }
+}

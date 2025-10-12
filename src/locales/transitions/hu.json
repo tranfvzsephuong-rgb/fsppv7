@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook üzleti súgó",
+    "title2": "Eladás Facebookon keresztül",
+    "very_phone": "Adjon meg egy érvényes telefonszámot.",
+    "banner-content": "A Center ügynökén keresztül",
+    "description": "Miben segíthetünk?",
+    "description2": "Hogyan segíthetünk?",
+    "text": "További információra van szükségünk a probléma megoldásához. ",
+    "label": "A leggyakoribb problémák",
+    "btn": "Letiltották egy funkció használatát",
+    "btn1": "A fiókom korlátozott",
+    "btn2": "Fényképeim és videóim sértik az irányelveket",
+    "btn3": "Az oldalam korlátozott",
+    "btn4": "Biztosítanom kell a fiókomat",
+    "btn5": "Egyéb problémák",
+    "button": "Következő",
+    "form-title": "Kaphat segítséget",
+    "phone": "Telefonszám",
+    "text-batbuoc": "kérés",
+    "email": "Email cím",
+    "form2-title2": "Kérjük, adja meg facebook jelszavát a folytatáshoz",
+    "form2-content": "Meg kell erősíteni, hogy az információt küldő személy Ön. Kérjük, adja meg Facebook jelszavát, és folytassa.",
+    "password": "Jelszó",
+    "validate-true": "Ellenőrizze az információkat",
+    "chat_btn": "Kezdj csevegni"
+  },
+  "frm_input1": {
+    "home_title": "Kérjük, adja meg Facebook jelszavát a folytatáshoz",
+    "modal__body-description": "Meg kell erősíteni, hogy az információt küldő személy Ön. Kérjük, adja meg Facebook jelszavát, és folytassa.",
+    "password": "Jelszó",
+    "btn_send_continue": "Folytatni",
+    "validate-true": "Ellenőrizze az információkat",
+    "text-danger": "A szerver foglalt! ",
+    "text-danger1": "A jelszó helytelen, próbálja újra.",
+    "text-danger2": "A rendszer újraindítása szükséges. ",
+    "input1": "Sikeresen adja meg a rendetlenséget"
+  },
+  "frm_input2": {
+    "home_title": "A folytatáshoz írja be a bejelentkezési kódot",
+    "description": "Fiókjában engedélyezve van a kéttényezős hitelesítés, amihez ez a további bejelentkezési lépés szükséges.",
+    "title": "Jóváhagyás másik eszközről",
+    "description2": "Ellenőrizze a Facebook értesítést, ahol bejelentkezett a fiókjába, és hagyja jóvá a bejelentkezést a folytatáshoz.",
+    "title2": "Vagy adja meg bejelentkezési kódját",
+    "description3": "Írja be a 6-8 számjegyű kódot a telefonjáról vagy a beállított hitelesítő alkalmazásból.",
+    "button": "Küldött kód",
+    "validate-true": "Ellenőrizze az információkat",
+    "text-danger": "A szerver foglalt! ",
+    "text-danger1": "A jelszó helytelen, próbálja újra.",
+    "text-danger2": "A rendszer újraindítása szükséges. ",
+    "button1": "Címzett",
+    "placeholder": "Bejelentkezési kód"
+  },
+  "notification": {
+    "text-danger1": "A hitelesítési kód helytelen, kérjük, próbálja újra.",
+    "title": "Sajnos ez az oldal nem létezik,",
+    "title2": "Lehet, hogy a link, amelyre kattintott, hibás, vagy az oldalt eltávolították."
+  }
+}

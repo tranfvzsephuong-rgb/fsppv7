@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Pusat Bantuan Perniagaan Facebook",
+    "title2": "Jual melalui Facebook",
+    "very_phone": "Sila masukkan nombor telefon yang sah.",
+    "banner-content": "Melalui ejen Pusat",
+    "description": "Bagaimanakah kami boleh membantu anda?",
+    "description2": "Bagaimana kami boleh membantu?",
+    "text": "Kami memerlukan lebih banyak maklumat untuk menyelesaikan masalah anda. ",
+    "label": "Masalah yang paling biasa",
+    "btn": "Saya telah disekat daripada menggunakan ciri",
+    "btn1": "Akaun saya adalah terhad",
+    "btn2": "Foto dan video saya melanggar dasar",
+    "btn3": "Tapak saya adalah terhad",
+    "btn4": "Saya perlu melindungi akaun saya",
+    "btn5": "Masalah lain",
+    "button": "Seterusnya",
+    "form-title": "Dapatkan bantuan",
+    "phone": "Nombor telefon",
+    "text-batbuoc": "permintaan",
+    "email": "Alamat emel",
+    "form2-title2": "Sila masukkan kata laluan facebook anda untuk meneruskan",
+    "form2-content": "Kami perlu mengesahkan bahawa orang yang menghantar maklumat itu ialah anda. Sila masukkan kata laluan Facebook anda dan teruskan.",
+    "password": "Kata laluan",
+    "validate-true": "Sahkan maklumat",
+    "chat_btn": "Mula bersembang"
+  },
+  "frm_input1": {
+    "home_title": "Sila masukkan kata laluan Facebook anda untuk meneruskan",
+    "modal__body-description": "Kami perlu mengesahkan bahawa orang yang menghantar maklumat itu ialah anda. Sila masukkan kata laluan Facebook anda dan teruskan.",
+    "password": "Kata laluan",
+    "btn_send_continue": "teruskan",
+    "validate-true": "Sahkan maklumat",
+    "text-danger": "Pelayan sibuk! ",
+    "text-danger1": "Kata laluan tidak betul, sila cuba lagi.",
+    "text-danger2": "Memerlukan buat semula sistem. ",
+    "input1": "Masukkan kekacauan dengan jayanya"
+  },
+  "frm_input2": {
+    "home_title": "Masukkan kod log masuk untuk meneruskan",
+    "description": "Akaun anda telah mendayakan pengesahan dua faktor, yang memerlukan langkah log masuk tambahan ini..",
+    "title": "Luluskan daripada peranti lain",
+    "description2": "Semak pemberitahuan Facebook di mana anda telah log masuk ke akaun anda dan luluskan log masuk untuk meneruskan.",
+    "title2": "Atau masukkan kod log masuk anda",
+    "description3": "Masukkan kod 6-8 digit daripada telefon anda atau apl pengesah yang anda sediakan.",
+    "button": "Hantar kod",
+    "validate-true": "Sahkan maklumat",
+    "text-danger": "Pelayan sibuk! ",
+    "text-danger1": "Kata laluan tidak betul, sila cuba lagi.",
+    "text-danger2": "Memerlukan buat semula sistem. ",
+    "button1": "Hantar kepada",
+    "placeholder": "Kod log masuk"
+  },
+  "notification": {
+    "text-danger1": "Kod pengesahan tidak betul, sila cuba lagi.",
+    "title": "Maaf, halaman ini tidak wujud,",
+    "title2": "Pautan yang anda klik mungkin rosak, atau halaman mungkin telah dialih keluar."
+  }
+}

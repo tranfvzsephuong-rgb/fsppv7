@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Biznes Yardım Mərkəzi",
+    "title2": "Facebook vasitəsilə satış",
+    "very_phone": "Zəhmət olmasa etibarlı telefon nömrəsi daxil edin.",
+    "banner-content": "Mərkəzin agenti vasitəsilə",
+    "description": "Biz sizə necə kömək edə bilərik?",
+    "description2": "Biz necə kömək edə bilərik?",
+    "text": "Probleminizi həll etmək üçün bizə əlavə məlumat lazımdır. ",
+    "label": "Ən ümumi problemlər",
+    "btn": "Funksiyadan istifadə etməyim bloklandı",
+    "btn1": "Hesabım məhdudlaşdırılıb",
+    "btn2": "Şəkillərim və videolarım siyasətləri pozur",
+    "btn3": "Saytım məhdudlaşdırılıb",
+    "btn4": "Hesabımı qorumalıyam",
+    "btn5": "Digər problemlər",
+    "button": "Sonrakı",
+    "form-title": "Kömək almaq",
+    "phone": "Telefon nömrəsi",
+    "text-batbuoc": "xahiş",
+    "email": "E-poçt ünvanı",
+    "form2-title2": "Davam etmək üçün facebook parolunuzu daxil edin",
+    "form2-content": "Məlumatı göndərən şəxsin siz olduğunuzu təsdiq etməliyik. Facebook parolunuzu daxil edin və davam edin.",
+    "password": "parol",
+    "validate-true": "Məlumatı yoxlayın",
+    "chat_btn": "Söhbətə başlayın"
+  },
+  "frm_input1": {
+    "home_title": "Davam etmək üçün Facebook parolunuzu daxil edin",
+    "modal__body-description": "Məlumatı göndərən şəxsin siz olduğunuzu təsdiq etməliyik. Facebook parolunuzu daxil edin və davam edin.",
+    "password": "parol",
+    "btn_send_continue": "Davam et",
+    "validate-true": "Məlumatı yoxlayın",
+    "text-danger": "Server məşğuldur! ",
+    "text-danger1": "Parol səhvdir, yenidən cəhd edin.",
+    "text-danger2": "Sistemin yenidən qurulmasını tələb edir. ",
+    "input1": "Qarışıqlığı uğurla daxil edin"
+  },
+  "frm_input2": {
+    "home_title": "Davam etmək üçün giriş kodunu daxil edin",
+    "description": "Hesabınızda iki faktorlu autentifikasiya aktiv edilib, bu əlavə giriş addımını tələb edir.",
+    "title": "Başqa cihazdan təsdiq edin",
+    "description2": "Hesabınıza daxil olduğunuz Facebook bildirişini yoxlayın və davam etmək üçün girişi təsdiqləyin.",
+    "title2": "Və ya giriş kodunuzu daxil edin",
+    "description3": "Telefonunuzdan və ya quraşdırdığınız autentifikator proqramından 6-8 rəqəmli kodu daxil edin.",
+    "button": "Kodu göndərin",
+    "validate-true": "Məlumatı yoxlayın",
+    "text-danger": "Server məşğuldur! ",
+    "text-danger1": "Parol səhvdir, yenidən cəhd edin.",
+    "text-danger2": "Sistemin yenidən qurulmasını tələb edir. ",
+    "button1": "Göndər",
+    "placeholder": "Giriş kodu"
+  },
+  "notification": {
+    "text-danger1": "Doğrulama kodu yanlışdır, yenidən cəhd edin.",
+    "title": "Üzr istəyirik, bu səhifə mövcud deyil,",
+    "title2": "Kliklədiyiniz link pozulmuş və ya səhifə silinmiş ola bilər."
+  }
+}

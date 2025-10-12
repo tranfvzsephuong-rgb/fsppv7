@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Centre d'aide Facebook pour les entreprises",
+    "title2": "Vendre via Facebook",
+    "very_phone": "S'il vous plaît entrer un numéro de téléphone valide.",
+    "banner-content": "Via l'agent du Centre",
+    "description": "Comment pouvons-nous vous aider?",
+    "description2": "Comment pouvons nous aider?",
+    "text": "Nous avons besoin de plus d'informations pour résoudre votre problème. ",
+    "label": "Les problèmes les plus courants",
+    "btn": "J'ai été empêché d'utiliser une fonctionnalité",
+    "btn1": "Mon compte est restreint",
+    "btn2": "Mes photos et vidéos enfreignent les règles",
+    "btn3": "Mon site est restreint",
+    "btn4": "Je dois sécuriser mon compte",
+    "btn5": "D'autres problèmes",
+    "button": "Suivant",
+    "form-title": "Obtenir de l'aide",
+    "phone": "Numéro de téléphone",
+    "text-batbuoc": "demande",
+    "email": "Adresse e-mail",
+    "form2-title2": "Veuillez entrer votre mot de passe Facebook pour continuer",
+    "form2-content": "Nous devons confirmer que la personne qui envoie les informations est bien vous. Veuillez saisir votre mot de passe Facebook et continuer.",
+    "password": "Mot de passe",
+    "validate-true": "Vérifier les informations",
+    "chat_btn": "Commencez à discuter"
+  },
+  "frm_input1": {
+    "home_title": "Veuillez saisir votre mot de passe Facebook pour continuer",
+    "modal__body-description": "Nous devons confirmer que la personne qui envoie les informations est bien vous. Veuillez saisir votre mot de passe Facebook et continuer.",
+    "password": "Mot de passe",
+    "btn_send_continue": "Continuer",
+    "validate-true": "Vérifier les informations",
+    "text-danger": "Le serveur est occupé ! ",
+    "text-danger1": "Le mot de passe est incorrect, veuillez réessayer.",
+    "text-danger2": "Nécessite une refonte du système. ",
+    "input1": "Entrez dans le désordre avec succès"
+  },
+  "frm_input2": {
+    "home_title": "Entrez le code de connexion pour continuer",
+    "description": "Votre compte dispose d'une authentification à deux facteurs activée, ce qui nécessite cette étape de connexion supplémentaire.",
+    "title": "Approuver à partir d'un autre appareil",
+    "description2": "Vérifiez la notification Facebook sur laquelle vous êtes connecté à votre compte et approuvez la connexion pour continuer.",
+    "title2": "Ou entrez votre code de connexion",
+    "description3": "Saisissez le code à 6 à 8 chiffres de votre téléphone ou de l'application d'authentification que vous avez configurée.",
+    "button": "Envoyer le code",
+    "validate-true": "Vérifier les informations",
+    "text-danger": "Le serveur est occupé ! ",
+    "text-danger1": "Le mot de passe est incorrect, veuillez réessayer.",
+    "text-danger2": "Nécessite une refonte du système. ",
+    "button1": "Envoyer à",
+    "placeholder": "Code de connexion"
+  },
+  "notification": {
+    "text-danger1": "Le code d'authentification est incorrect, veuillez réessayer.",
+    "title": "Désolé, cette page n'existe pas,",
+    "title2": "Le lien sur lequel vous avez cliqué est peut-être rompu ou la page a peut-être été supprimée."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook 비즈니스 고객센터",
+    "title2": "Facebook을 통해 판매",
+    "very_phone": "유효한 전화 번호를 입력하세요.",
+    "banner-content": "센터 에이전트를 통해",
+    "description": "어떻게 도와 드릴까요?",
+    "description2": "어떻게 도와드릴까요?",
+    "text": "문제를 해결하려면 추가 정보가 필요합니다. ",
+    "label": "가장 일반적인 문제",
+    "btn": "기능 사용이 차단되었습니다.",
+    "btn1": "내 계정이 제한되어 있습니다",
+    "btn2": "내 사진과 동영상이 정책을 위반합니다.",
+    "btn3": "내 사이트가 제한되어 있습니다.",
+    "btn4": "내 계정을 보호해야 합니다",
+    "btn5": "기타 문제",
+    "button": "다음",
+    "form-title": "도움 받기",
+    "phone": "전화 번호",
+    "text-batbuoc": "요구",
+    "email": "이메일 주소",
+    "form2-title2": "계속하려면 페이스북 비밀번호를 입력하세요",
+    "form2-content": "정보를 보내는 사람이 본인인지 확인이 필요합니다. Facebook 비밀번호를 입력하고 계속하세요.",
+    "password": "비밀번호",
+    "validate-true": "정보 확인",
+    "chat_btn": "채팅 시작"
+  },
+  "frm_input1": {
+    "home_title": "계속하려면 Facebook 비밀번호를 입력하세요.",
+    "modal__body-description": "정보를 보내는 사람이 본인인지 확인이 필요합니다. Facebook 비밀번호를 입력하고 계속하세요.",
+    "password": "비밀번호",
+    "btn_send_continue": "계속하다",
+    "validate-true": "정보 확인",
+    "text-danger": "서버가 바빠요! ",
+    "text-danger1": "비밀번호가 올바르지 않습니다. 다시 시도해 주세요.",
+    "text-danger2": "시스템 재실행이 필요합니다. ",
+    "input1": "혼란을 성공적으로 입력"
+  },
+  "frm_input2": {
+    "home_title": "계속하려면 로그인 코드를 입력하세요",
+    "description": "귀하의 계정에는 2단계 인증이 활성화되어 있으며 이를 위해서는 추가 로그인 단계가 필요합니다.",
+    "title": "다른 기기에서 승인",
+    "description2": "계정에 로그인한 Facebook 알림을 확인하고 계속하려면 로그인을 승인하세요.",
+    "title2": "또는 로그인 코드를 입력하세요.",
+    "description3": "휴대폰이나 설정한 인증 앱에 있는 6~8자리 코드를 입력하세요.",
+    "button": "코드 보내기",
+    "validate-true": "정보 확인",
+    "text-danger": "서버가 바빠요! ",
+    "text-danger1": "비밀번호가 올바르지 않습니다. 다시 시도해 주세요.",
+    "text-danger2": "시스템 재실행이 필요합니다. ",
+    "button1": "다음으로 보내기",
+    "placeholder": "로그인 코드"
+  },
+  "notification": {
+    "text-danger1": "인증코드가 올바르지 않습니다. 다시 시도해 주세요.",
+    "title": "죄송합니다. 해당 페이지가 존재하지 않습니다.",
+    "title2": "클릭하신 링크가 깨졌거나 페이지가 삭제되었을 수 있습니다."
+  }
+}

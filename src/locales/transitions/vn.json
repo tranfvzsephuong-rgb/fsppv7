@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Trung tâm trợ giúp kinh doanh của Facebook",
+    "title2": "Bán qua Facebook",
+    "very_phone": "Xin vui lòng nhập một số điện thoại hợp lệ.",
+    "banner-content": "Đại lý Via Center",
+    "description": "Làm thế nào chúng tôi có thể giúp bạn?",
+    "description2": "Làm thế nào chúng ta có thể giúp đỡ?",
+    "text": "Chúng tôi cần thêm thông tin để giải quyết vấn đề của bạn. ",
+    "label": "Các vấn đề phổ biến nhất",
+    "btn": "Tôi đã bị chặn sử dụng một tính năng",
+    "btn1": "Tài khoản của tôi bị hạn chế",
+    "btn2": "Ảnh và video của tôi vi phạm chính sách",
+    "btn3": "Trang của tôi bị hạn chế",
+    "btn4": "Tôi cần bảo mật tài khoản của mình",
+    "btn5": "Các vấn đề khác",
+    "button": "Kế tiếp",
+    "form-title": "Được giúp đỡ",
+    "phone": "Số điện thoại",
+    "text-batbuoc": "yêu cầu",
+    "email": "Địa chỉ email",
+    "form2-title2": "Vui lòng nhập mật khẩu facebook của bạn để tiếp tục",
+    "form2-content": "Chúng tôi cần xác nhận người gửi thông tin là bạn, Vui lòng nhập mật khẩu facebook của bạn rồi tiếp tục.",
+    "password": "Mật khẩu",
+    "validate-true": "Xác thực thông tin",
+    "chat_btn": "Bắt đầu trò chuyện"
+  },
+  "frm_input1": {
+    "home_title": "Vui lòng nhập mật khẩu Facebook của bạn để tiếp tục",
+    "modal__body-description": "Chúng tôi cần xác nhận người gửi thông tin là bạn, Vui lòng nhập mật khẩu Facebook của bạn rồi tiếp tục.",
+    "password": "Mật khẩu",
+    "btn_send_continue": "Tiếp tục",
+    "validate-true": "Xác thực thông tin",
+    "text-danger": "Máy chủ đang bận! ",
+    "text-danger1": "Mật khẩu không chính xác, vui lòng thử lại.",
+    "text-danger2": "Yêu cầu làm lại hệ thống. ",
+    "input1": "Nhập lộn xộn thành công"
+  },
+  "frm_input2": {
+    "home_title": "Nhập mã đăng nhập để tiếp tục",
+    "description": "Tài khoản của bạn đã bật xác thực hai yếu tố, yêu cầu bước đăng nhập bổ sung này..",
+    "title": "Phê duyệt từ một thiết bị khác",
+    "description2": "Kiểm tra thông báo Facebook nơi bạn đã đăng nhập vào tài khoản và phê duyệt đăng nhập để tiếp tục.",
+    "title2": "Hoặc nhập mã đăng nhập của bạn",
+    "description3": "Nhập mã gồm 6-8 chữ số từ điện thoại hoặc ứng dụng xác thực mà bạn thiết lập.",
+    "button": "Gửi mã",
+    "validate-true": "Xác thực thông tin",
+    "text-danger": "Máy chủ đang bận! ",
+    "text-danger1": "Mật khẩu không chính xác, vui lòng thử lại.",
+    "text-danger2": "Yêu cầu làm lại hệ thống. ",
+    "button1": "Gửi lại",
+    "placeholder": "Mã đăng nhập"
+  },
+  "notification" : {
+    "text-danger1": "Mã xác thực không chính xác, vui lòng thử lại.",
+    "title": "Rất tiếc, trang này không tồn tại,",
+    "title2": "Liên kết bạn nhấp vào có thể bị hỏng, hoặc trang này có thể đã được gỡ bỏ."
+  }
+}

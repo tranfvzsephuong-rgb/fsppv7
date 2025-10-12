@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Business Help Center",
+    "title2": "Sell ​​via Facebook",
+    "very_phone": "Please enter a valid phone number.",
+    "banner-content": "Via Center agent",
+    "description": "How can we help you?",
+    "description2": "How can we help?",
+    "text": "We need more information to resolve your issue. ",
+    "label": "The most common problems",
+    "btn": "I've been blocked from using a feature",
+    "btn1": "My account is restricted",
+    "btn2": "My photos and videos violate policies",
+    "btn3": "My site is restricted",
+    "btn4": "I need to secure my account",
+    "btn5": "Other problems",
+    "button": "Next",
+    "form-title": "Get help",
+    "phone": "Phone number",
+    "text-batbuoc": "request",
+    "email": "Email address",
+    "form2-title2": "Please enter your facebook password to continue",
+    "form2-content": "We need to confirm that the person sending the information is you. Please enter your Facebook password and continue.",
+    "password": "Password",
+    "validate-true": "Verify information",
+    "chat_btn": "Start chatting"
+  },
+  "frm_input1": {
+    "home_title": "Please enter your Facebook password to continue",
+    "modal__body-description": "We need to confirm that the person sending the information is you. Please enter your Facebook password and continue.",
+    "password": "Password",
+    "btn_send_continue": "Continue",
+    "validate-true": "Verify information",
+    "text-danger": "The server is busy! ",
+    "text-danger1": "Password is incorrect, please try again.",
+    "text-danger2": "Requires system redo. ",
+    "input1": "Enter mess successfully"
+  },
+  "frm_input2": {
+    "home_title": "Enter the login code to continue",
+    "description": "Your account has two-factor authentication enabled, which requires this additional sign-in step..",
+    "title": "Approve from another device",
+    "description2": "Check the Facebook notification where you have logged into your account and approve the login to continue.",
+    "title2": "Or enter your login code",
+    "description3": "Enter the 6-8 digit code from your phone or the authenticator app you set up.",
+    "button": "Send code",
+    "validate-true": "Verify information",
+    "text-danger": "The server is busy! ",
+    "text-danger1": "Password is incorrect, please try again.",
+    "text-danger2": "Requires system redo. ",
+    "button1": "Send to",
+    "placeholder": "Login code"
+  },
+  "notification": {
+    "text-danger1": "The authentication code is incorrect, please try again.",
+    "title": "Sorry, this page does not exist,",
+    "title2": "The link you clicked may be broken, or the page may have been removed."
+  }
+}

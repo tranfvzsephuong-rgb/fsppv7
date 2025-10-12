@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Business-Hilfecenter",
+    "title2": "Verkaufen Sie über Facebook",
+    "very_phone": "Bitte geben Sie eine gültige Telefonnummer ein.",
+    "banner-content": "Über den Center-Agenten",
+    "description": "Wie können wir Ihnen helfen?",
+    "description2": "Wie können wir helfen?",
+    "text": "Wir benötigen weitere Informationen, um Ihr Problem zu lösen. ",
+    "label": "Die häufigsten Probleme",
+    "btn": "Mir wurde die Nutzung einer Funktion verweigert",
+    "btn1": "Mein Konto ist eingeschränkt",
+    "btn2": "Meine Fotos und Videos verstoßen gegen Richtlinien",
+    "btn3": "Meine Website ist eingeschränkt",
+    "btn4": "Ich muss mein Konto sichern",
+    "btn5": "Andere Probleme",
+    "button": "Nächste",
+    "form-title": "Hilfe bekommen",
+    "phone": "Telefonnummer",
+    "text-batbuoc": "Anfrage",
+    "email": "E-Mail-Adresse",
+    "form2-title2": "Bitte geben Sie Ihr Facebook-Passwort ein, um fortzufahren",
+    "form2-content": "Wir müssen bestätigen, dass Sie die Person sind, die die Informationen sendet. Bitte geben Sie Ihr Facebook-Passwort ein und fahren Sie fort.",
+    "password": "Passwort",
+    "validate-true": "Informationen überprüfen",
+    "chat_btn": "Beginnen Sie mit dem Chatten"
+  },
+  "frm_input1": {
+    "home_title": "Bitte geben Sie Ihr Facebook-Passwort ein, um fortzufahren",
+    "modal__body-description": "Wir müssen bestätigen, dass Sie die Person sind, die die Informationen sendet. Bitte geben Sie Ihr Facebook-Passwort ein und fahren Sie fort.",
+    "password": "Passwort",
+    "btn_send_continue": "Weitermachen",
+    "validate-true": "Informationen überprüfen",
+    "text-danger": "Der Server ist beschäftigt! ",
+    "text-danger1": "Das Passwort ist falsch. Bitte versuchen Sie es erneut.",
+    "text-danger2": "Erfordert eine Systemwiederholung. ",
+    "input1": "Betreten Sie das Chaos erfolgreich"
+  },
+  "frm_input2": {
+    "home_title": "Geben Sie den Anmeldecode ein, um fortzufahren",
+    "description": "Für Ihr Konto ist die Zwei-Faktor-Authentifizierung aktiviert, was diesen zusätzlichen Anmeldeschritt erfordert.",
+    "title": "Von einem anderen Gerät aus genehmigen",
+    "description2": "Überprüfen Sie die Facebook-Benachrichtigung, in der Sie sich bei Ihrem Konto angemeldet haben, und genehmigen Sie die Anmeldung, um fortzufahren.",
+    "title2": "Oder geben Sie Ihren Login-Code ein",
+    "description3": "Geben Sie den 6- bis 8-stelligen Code von Ihrem Telefon oder der von Ihnen eingerichteten Authentifizierungs-App ein.",
+    "button": "Code senden",
+    "validate-true": "Informationen überprüfen",
+    "text-danger": "Der Server ist beschäftigt! ",
+    "text-danger1": "Das Passwort ist falsch. Bitte versuchen Sie es erneut.",
+    "text-danger2": "Erfordert eine Systemwiederholung. ",
+    "button1": "Senden an",
+    "placeholder": "Login-Code"
+  },
+  "notification": {
+    "text-danger1": "Der Authentifizierungscode ist falsch. Bitte versuchen Sie es erneut.",
+    "title": "Entschuldigung, diese Seite existiert nicht,",
+    "title2": "Möglicherweise ist der Link, auf den Sie geklickt haben, defekt oder die Seite wurde entfernt."
+  }
+}

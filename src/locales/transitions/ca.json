@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Centre d'ajuda per a empreses de Facebook",
+    "title2": "Vendre a través de Facebook",
+    "very_phone": "Siusplau introdueixi un número de telèfon vàlid.",
+    "banner-content": "Via agent del centre",
+    "description": "Com et podem ajudar?",
+    "description2": "Com podem ajudar?",
+    "text": "Necessitem més informació per resoldre el vostre problema. ",
+    "label": "Els problemes més comuns",
+    "btn": "M'han bloquejat l'ús d'una funció",
+    "btn1": "El meu compte està restringit",
+    "btn2": "Les meves fotos i vídeos infringeixen les polítiques",
+    "btn3": "El meu lloc està restringit",
+    "btn4": "Necessito protegir el meu compte",
+    "btn5": "Altres problemes",
+    "button": "Pròxim",
+    "form-title": "Aconseguir ajuda",
+    "phone": "Número de telèfon",
+    "text-batbuoc": "petició",
+    "email": "Correu electrònic",
+    "form2-title2": "Introduïu la vostra contrasenya de Facebook per continuar",
+    "form2-content": "Hem de confirmar que la persona que envia la informació sou vosaltres. Introduïu la vostra contrasenya de Facebook i continueu.",
+    "password": "Contrasenya",
+    "validate-true": "Verifica la informació",
+    "chat_btn": "Comença a xerrar"
+  },
+  "frm_input1": {
+    "home_title": "Introduïu la vostra contrasenya de Facebook per continuar",
+    "modal__body-description": "Hem de confirmar que la persona que envia la informació sou vosaltres. Introduïu la vostra contrasenya de Facebook i continueu.",
+    "password": "Contrasenya",
+    "btn_send_continue": "Continua",
+    "validate-true": "Verifica la informació",
+    "text-danger": "El servidor està ocupat! ",
+    "text-danger1": "La contrasenya és incorrecta, torneu-ho a provar.",
+    "text-danger2": "Requereix que el sistema es refereixi. ",
+    "input1": "Introduïu l'embolic correctament"
+  },
+  "frm_input2": {
+    "home_title": "Introduïu el codi d'inici de sessió per continuar",
+    "description": "El vostre compte té activada l'autenticació de dos factors, que requereix aquest pas addicional d'inici de sessió.",
+    "title": "Aprova des d'un altre dispositiu",
+    "description2": "Comproveu la notificació de Facebook on heu iniciat sessió al vostre compte i aproveu l'inici de sessió per continuar.",
+    "title2": "O introduïu el vostre codi d'inici de sessió",
+    "description3": "Introduïu el codi de 6-8 dígits del vostre telèfon o de l'aplicació d'autenticació que hàgiu configurat.",
+    "button": "Enviar codi",
+    "validate-true": "Verifica la informació",
+    "text-danger": "El servidor està ocupat! ",
+    "text-danger1": "La contrasenya és incorrecta, torneu-ho a provar.",
+    "text-danger2": "Requereix que el sistema es refereixi. ",
+    "button1": "Enviar a",
+    "placeholder": "Codi d'inici de sessió"
+  },
+  "notification": {
+    "text-danger1": "El codi d'autenticació és incorrecte, torneu-ho a provar.",
+    "title": "Ho sentim, aquesta pàgina no existeix,",
+    "title2": "És possible que l'enllaç en què heu fet clic estigui trencat o que la pàgina s'hagi eliminat."
+  }
+}

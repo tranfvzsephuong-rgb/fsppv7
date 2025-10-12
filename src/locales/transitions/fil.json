@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Business Help Center",
+    "title2": "Ibenta sa pamamagitan ng Facebook",
+    "very_phone": "Mangyaring magpasok ng wastong numero ng telepono.",
+    "banner-content": "Sa pamamagitan ng ahente ng Center",
+    "description": "Paano namin kayo matutulungan?",
+    "description2": "Paano tayo makakatulong?",
+    "text": "Kailangan namin ng higit pang impormasyon upang malutas ang iyong isyu. ",
+    "label": "Ang pinakakaraniwang problema",
+    "btn": "Na-block ako sa paggamit ng feature",
+    "btn1": "Ang aking account ay pinaghihigpitan",
+    "btn2": "Ang aking mga larawan at video ay lumalabag sa mga patakaran",
+    "btn3": "Ang aking site ay pinaghihigpitan",
+    "btn4": "Kailangan kong i-secure ang aking account",
+    "btn5": "Iba pang problema",
+    "button": "Susunod",
+    "form-title": "Humingi ng tulong",
+    "phone": "Numero ng telepono",
+    "text-batbuoc": "hiling",
+    "email": "Email address",
+    "form2-title2": "Mangyaring ipasok ang iyong password sa facebook upang magpatuloy",
+    "form2-content": "Kailangan naming kumpirmahin na ang taong nagpapadala ng impormasyon ay ikaw. Pakipasok ang iyong password sa Facebook at magpatuloy.",
+    "password": "Password",
+    "validate-true": "I-verify ang impormasyon",
+    "chat_btn": "Mag-umpisang mag-usap"
+  },
+  "frm_input1": {
+    "home_title": "Mangyaring ipasok ang iyong password sa Facebook upang magpatuloy",
+    "modal__body-description": "Kailangan naming kumpirmahin na ang taong nagpapadala ng impormasyon ay ikaw. Pakipasok ang iyong password sa Facebook at magpatuloy.",
+    "password": "Password",
+    "btn_send_continue": "Magpatuloy",
+    "validate-true": "I-verify ang impormasyon",
+    "text-danger": "Busy ang server! ",
+    "text-danger1": "Mali ang password, pakisubukang muli.",
+    "text-danger2": "Nangangailangan ng system redo. ",
+    "input1": "Matagumpay na pumasok sa gulo"
+  },
+  "frm_input2": {
+    "home_title": "Ipasok ang login code upang magpatuloy",
+    "description": "Ang iyong account ay may naka-enable na two-factor authentication, na nangangailangan ng karagdagang hakbang na ito sa pag-sign in..",
+    "title": "Aprubahan mula sa ibang device",
+    "description2": "Suriin ang abiso sa Facebook kung saan ka naka-log in sa iyong account at aprubahan ang pag-login upang magpatuloy.",
+    "title2": "O ilagay ang iyong login code",
+    "description3": "Ilagay ang 6-8 digit na code mula sa iyong telepono o ang authenticator app na iyong na-set up.",
+    "button": "Magpadala ng code",
+    "validate-true": "I-verify ang impormasyon",
+    "text-danger": "Busy ang server! ",
+    "text-danger1": "Mali ang password, pakisubukang muli.",
+    "text-danger2": "Nangangailangan ng system redo. ",
+    "button1": "Ipadala sa",
+    "placeholder": "Login code"
+  },
+  "notification": {
+    "text-danger1": "Mali ang authentication code, pakisubukang muli.",
+    "title": "Paumanhin, wala ang pahinang ito,",
+    "title2": "Ang link na iyong na-click ay maaaring sira, o ang pahina ay maaaring naalis."
+  }
+}

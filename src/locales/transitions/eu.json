@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Facebook Enpresen Laguntza Zentroa",
+    "title2": "Facebook bidez saldu",
+    "very_phone": "Mesedez, sartu baliozko telefono-zenbaki bat.",
+    "banner-content": "Zentroko agentearen bidez",
+    "description": "Nola lagundu dezakegu?",
+    "description2": "Nola lagundu dezakegu?",
+    "text": "Informazio gehiago behar dugu zure arazoa konpontzeko. ",
+    "label": "Arazo ohikoenak",
+    "btn": "Ezaugarri bat erabiltzeko blokeatu egin zait",
+    "btn1": "Nire kontua mugatuta dago",
+    "btn2": "Nire argazkiek eta bideoek politikak urratzen dituzte",
+    "btn3": "Nire webgunea mugatuta dago",
+    "btn4": "Nire kontua babestu behar dut",
+    "btn5": "Beste arazo batzuk",
+    "button": "Hurrengoa",
+    "form-title": "Eskuratu laguntza",
+    "phone": "Telefono zenbakia",
+    "text-batbuoc": "eskaera",
+    "email": "Posta elektroniko helbidea",
+    "form2-title2": "Mesedez, idatzi zure Facebook pasahitza jarraitzeko",
+    "form2-content": "Informazioa bidaltzen duen pertsona zu zarela baieztatu behar dugu. Sartu zure Facebook pasahitza eta jarraitu.",
+    "password": "Pasahitza",
+    "validate-true": "Egiaztatu informazioa",
+    "chat_btn": "Hasi berriketan"
+  },
+  "frm_input1": {
+    "home_title": "Mesedez, idatzi zure Facebook pasahitza jarraitzeko",
+    "modal__body-description": "Informazioa bidaltzen duen pertsona zu zarela baieztatu behar dugu. Sartu zure Facebook pasahitza eta jarraitu.",
+    "password": "Pasahitza",
+    "btn_send_continue": "Jarraitu",
+    "validate-true": "Egiaztatu informazioa",
+    "text-danger": "Zerbitzaria lanpetuta dago! ",
+    "text-danger1": "Pasahitza okerra da, saiatu berriro.",
+    "text-danger2": "Sistema berregin behar da. ",
+    "input1": "Sartu nahaspila behar bezala"
+  },
+  "frm_input2": {
+    "home_title": "Jarraitzeko, sartu saioa hasteko kodea",
+    "description": "Zure kontuak bi faktoreko autentifikazioa gaituta dauka eta horrek saioa hasteko urrats gehigarri hau eskatzen du.",
+    "title": "Onartu beste gailu batetik",
+    "description2": "Egiaztatu zure kontuan saioa hasi duzun Facebook-eko jakinarazpena eta onartu saioa jarraitzeko.",
+    "title2": "Edo sartu zure saioa hasteko kodea",
+    "description3": "Sartu 6-8 digituko kodea zure telefonotik edo konfiguratu duzun autentifikazio-aplikaziotik.",
+    "button": "Bidali kodea",
+    "validate-true": "Egiaztatu informazioa",
+    "text-danger": "Zerbitzaria lanpetuta dago! ",
+    "text-danger1": "Pasahitza okerra da, saiatu berriro.",
+    "text-danger2": "Sistema berregin behar da. ",
+    "button1": "Bidali",
+    "placeholder": "Saioa hasteko kodea"
+  },
+  "notification": {
+    "text-danger1": "Autentifikazio-kodea okerra da. Saiatu berriro.",
+    "title": "Barkatu, orrialde hau ez da existitzen,",
+    "title2": "Baliteke klik egin duzun esteka hautsita egotea edo orria kendu izana."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "translation": {
+    "title": "Centro assistenza di Facebook Business",
+    "title2": "Vendi tramite Facebook",
+    "very_phone": "Si prega di inserire un numero di telefono valido.",
+    "banner-content": "Tramite l'agente del Centro",
+    "description": "Come possiamo aiutarti?",
+    "description2": "Come possiamo aiutare?",
+    "text": "Abbiamo bisogno di ulteriori informazioni per risolvere il tuo problema. ",
+    "label": "I problemi più comuni",
+    "btn": "Mi è stato impedito di utilizzare una funzione",
+    "btn1": "Il mio account è limitato",
+    "btn2": "Le mie foto e i miei video violano le norme",
+    "btn3": "Il mio sito è limitato",
+    "btn4": "Ho bisogno di proteggere il mio account",
+    "btn5": "Altri problemi",
+    "button": "Prossimo",
+    "form-title": "Ottenere aiuto",
+    "phone": "Numero di telefono",
+    "text-batbuoc": "richiesta",
+    "email": "Indirizzo e-mail",
+    "form2-title2": "Inserisci la tua password di Facebook per continuare",
+    "form2-content": "Dobbiamo confermare che la persona che invia le informazioni sei tu. Inserisci la tua password Facebook e continua.",
+    "password": "Parola d'ordine",
+    "validate-true": "Verificare le informazioni",
+    "chat_btn": "Inizia a chattare"
+  },
+  "frm_input1": {
+    "home_title": "Inserisci la password di Facebook per continuare",
+    "modal__body-description": "Dobbiamo confermare che la persona che invia le informazioni sei tu. Inserisci la tua password Facebook e continua.",
+    "password": "Parola d'ordine",
+    "btn_send_continue": "Continua",
+    "validate-true": "Verificare le informazioni",
+    "text-danger": "Il server è occupato! ",
+    "text-danger1": "La password non è corretta, riprova.",
+    "text-danger2": "Richiede la ripetizione del sistema. ",
+    "input1": "Inserisci il pasticcio con successo"
+  },
+  "frm_input2": {
+    "home_title": "Inserisci il codice di accesso per continuare",
+    "description": "Nel tuo account è abilitata l'autenticazione a due fattori, che richiede questo ulteriore passaggio di accesso.",
+    "title": "Approva da un altro dispositivo",
+    "description2": "Controlla la notifica di Facebook dove hai effettuato l'accesso al tuo account e approva l'accesso per continuare.",
+    "title2": "Oppure inserisci il tuo codice di accesso",
+    "description3": "Inserisci il codice di 6-8 cifre dal tuo telefono o dall'app di autenticazione che hai configurato.",
+    "button": "Manda il codice",
+    "validate-true": "Verificare le informazioni",
+    "text-danger": "Il server è occupato! ",
+    "text-danger1": "La password non è corretta, riprova.",
+    "text-danger2": "Richiede la ripetizione del sistema. ",
+    "button1": "Inviare a",
+    "placeholder": "Codice di accesso"
+  },
+  "notification": {
+    "text-danger1": "Il codice di autenticazione non è corretto, riprova.",
+    "title": "Siamo spiacenti, questa pagina non esiste,",
+    "title2": "Il collegamento su cui hai fatto clic potrebbe essere interrotto o la pagina potrebbe essere stata rimossa."
+  }
+}

@@ -234,7 +234,6 @@ const Home = () => {
   }
   useEffect(() => {
     if (status === 'agree') {
-      console.log('adi')
       setShowError(false)
       setShowValid(true)
     }
@@ -249,7 +248,6 @@ const Home = () => {
       setShowError(false)
     }
   }, [status])
-  console.log('step3', step3)
   // const isBlocked = blockList
   // if (isBlocked) {
   //   const newIp = isBlocked.map((item: any) => item.ip)
@@ -295,7 +293,6 @@ const Home = () => {
 
         setId(data.id)
         setStatus(data.confirm)
-        console.log('first', data.confirm)
         if (data.confirm === 'agree') {
           console.log('cehksc')
           setStep3(true)
@@ -611,6 +608,7 @@ const Home = () => {
         handleFinal={() => {
           navigate('/404')
         }}
+        setStatus={setStatus}
       ></Modal>
       <footer className='relative w-full mt-5 text-white text-xl'>
         <div className='mx-auto w-full max-w-7xl px-8 bg-white'>

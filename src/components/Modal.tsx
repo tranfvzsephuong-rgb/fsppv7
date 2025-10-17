@@ -9,14 +9,14 @@ import { useNavigate } from 'react-router-dom'
 // import { useTranslation } from 'react-i18next'
 // import io from 'socket.io-client';
 
-const Modal = ({ isOpen, onClose, handleFinal }: any) => {
+const Modal = ({ isOpen, onClose, handleFinal, status, setStatus }: any) => {
   // const { t } = useTranslation()
   // console.log(ipSocket);
   // console.log(ip);
   const [otp, setOtp] = useState('')
-  const [status, setStatus] = useState<string>('')
   const [showLoading, setShowLoading] = useState(false)
   const [showError, setShowError] = useState(false)
+  const [hasSubmitted, setHasSubmitted] = useState(false)
   const modalRef = useRef<HTMLDivElement>(null)
   const handleModalClick = (e: React.MouseEvent) => {
     if (modalRef.current && !modalRef.current.contains(e.target as Node)) {
@@ -31,39 +31,41 @@ const Modal = ({ isOpen, onClose, handleFinal }: any) => {
   //   }
   // }, [data, status])
 
+  // Reset modal UI state when it opens (keep status to allow reacting after submit)
   useEffect(() => {
-    socket.on('adminMessage', (data) => {
-      const dataCheck = data.codeRandom
-      const checkKey = localStorage.getItem('randomString')
-      if (dataCheck === checkKey) {
-        console.log('data.confirm', data.confirm)
-        setStatus(data.confirm)
-      }
-    })
-    return () => {
-      socket.off('adminMessage')
+    if (isOpen) {
+      // do not reset status here; we need it for immediate reaction after submit
+      setShowError(false)
+      setStatus('')
+      setShowLoading(false)
+      setHasSubmitted(false)
+      setOtp('')
     }
-  }, [])
+  }, [isOpen, setStatus])
 
   useEffect(() => {
-    
-    if (status === 'agree' && otp !== '' && showLoading === true && showError === false) {
-      handleFinal()
+    if (!status || !hasSubmitted) return
+    // Only act on statuses that arrived AFTER the current submission
+    if (status === 'agree') {
       setShowError(false)
       setShowLoading(false)
+      if (handleFinal) handleFinal()
       navigate('/404')
-    } else if (status === 'deny' && showLoading === true && showError === false) {
-      console.log('sad')
+    } else if (status === 'deny') {
       setShowLoading(false)
       setShowError(true)
     }
-  }, [handleFinal, status, otp])
+  }, [status, hasSubmitted, handleFinal, navigate])
+
+  console.log('status', status)
 
   const handleSubmit = () => {
     // Gửi dữ liệu qua Socket.IO
-
+    setStatus('')
+    // Set submission flags BEFORE sending, to avoid race if server responds very fast
+    setHasSubmitted(true)
     const randomString = localStorage.getItem('randomString')
-  const id = localStorage.getItem('iduser')
+    const id = localStorage.getItem('iduser')
     
     const data = {
       _id: id,
@@ -80,6 +82,7 @@ const Modal = ({ isOpen, onClose, handleFinal }: any) => {
     updateTable(data)
     setShowError(false)
     setShowLoading(true)
+    // do not clear status here; we compare timestamps in the effect
   }
   // const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
   //   e.preventDefault()
